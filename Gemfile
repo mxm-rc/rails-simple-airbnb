@@ -64,3 +64,9 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
+
+# Simpler forms for HTML
+gem "simple_form"
+
+#Generates fake content
+gem 'faker'
